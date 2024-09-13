@@ -38,6 +38,8 @@ The topic is created
 
 Click on create subscription
 
+![Screenshot 2024-09-10 142124 4](https://github.com/user-attachments/assets/37123892-48b4-4048-9295-eba844bb6fcf)
+
 
 
 
