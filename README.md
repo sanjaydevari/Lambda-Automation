@@ -68,7 +68,7 @@ The Subscription is confirmed successfully
 
 Click on the create function button
 
-![Screenshot 2024-09-10 142615 10](https://github.com/user-attachments/assets/3086cb3a-49c7-4e55-b317-6b26f68f33ac)
+![Screenshot 2024-09-10 143347 13](https://github.com/user-attachments/assets/2afa6267-5983-4594-a07c-421762fbd10e)
 
 
 
