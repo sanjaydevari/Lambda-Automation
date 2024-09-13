@@ -169,6 +169,10 @@ return {
     'body': json.dumps(f"Number of rows in {key}: {row_count}")
 }
 
+# `Uploading the CSV file to the s3-bucket`
+
+Click on add files and upload the file
+
 
 
 
