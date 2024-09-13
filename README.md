@@ -24,6 +24,7 @@ This AWS Lambda function is designed to be triggered by S3 events, specifically 
 Go to the Simple Notification Service (SNS)
 
 Click on create topic
+![Screenshot 2024-09-10 141624 1](https://github.com/user-attachments/assets/de6844e4-cb75-4557-bc1b-a27e9b431d47)
 
 
 
