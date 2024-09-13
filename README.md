@@ -121,7 +121,7 @@ Than click on add
 
 The SNS trigger is added to the lambda-function
 
-![Screenshot 2024-09-10 145908 14](https://github.com/user-attachments/assets/8ff46abd-d894-4c03-9e5a-bd73201ef2ac)
+![Screenshot 2024-09-10 150758 16](https://github.com/user-attachments/assets/84c85061-554f-4840-971d-1e05f984a80c)
 
 # `Adding the destination`
 
