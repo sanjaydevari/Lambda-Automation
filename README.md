@@ -50,6 +50,8 @@ click on create
 
 ![Screenshot 2024-09-10 142251 4](https://github.com/user-attachments/assets/3f3ad470-b110-4f4c-b0a5-afbe65293120)
 
+The subscription for the email-notification is created successfully
+
 
 
 
