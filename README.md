@@ -89,6 +89,15 @@ The Lambda-project function is created:
 # `Adding the s3-trigger`
 Click on add trigger
 
+![Screenshot 2024-09-10 144740 01](https://github.com/user-attachments/assets/e0ad8d01-6909-457d-8433-0913c390cbe3)
+
+Select the trigger as : S3
+
+Select the bucket : s3-data-storage20
+
+Select the event types as : all object create events
+
+
 
 
 
