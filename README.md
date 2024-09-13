@@ -25,6 +25,11 @@ Go to the Simple Notification Service (SNS)
 
 Click on create topic
 ![Screenshot 2024-09-10 141624 1](https://github.com/user-attachments/assets/de6844e4-cb75-4557-bc1b-a27e9b431d47)
+Select the type as : standard
+
+Enter the name of the notification : email-notification
+
+Click on create
 
 
 
