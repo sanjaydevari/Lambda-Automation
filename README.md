@@ -140,21 +140,21 @@ import json import boto3
 
 def lambda_handler(event, context): s3 = boto3.client('s3') # Initialize the S3 client sns = boto3.client('sns') # Initialize the SNS client
 
-# Get the S3 bucket and object key from the event
+ Get the S3 bucket and object key from the event
 bucket = event['Records'][0]['s3']['bucket']['name']
 key = event['Records'][0]['s3']['object']['key']
 
-# Download the CSV file from S3
+ Download the CSV file from S3
 response = s3.get_object(Bucket=bucket, Key=key)
 csv_content = response['Body'].read().decode('utf-8').splitlines()
 
-# Count the number of rows in the CSV file
+ Count the number of rows in the CSV file
 row_count = len(csv_content)
 
-# Print the result (you can modify this to store the count or send it elsewhere)
+ Print the result (you can modify this to store the count or send it elsewhere)
 print(f"Number of rows in {key}: {row_count}")
 
-# Publish a message to SNS
+ Publish a message to SNS
 sns_topic_arn = 'arn:aws:sns:ap-south-1:136543311415:email-notification'
 sns_message = f"Number of rows in {key}: {row_count}"
 
