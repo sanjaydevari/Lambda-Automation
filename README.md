@@ -30,6 +30,7 @@ Select the type as : standard
 Enter the name of the notification : email-notification
 
 Click on create
+![Screenshot 2024-09-10 141719 2](https://github.com/user-attachments/assets/0e51d8b5-b242-4b7f-8c08-49f13f047873)
 
 
 
