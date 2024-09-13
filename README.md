@@ -64,7 +64,7 @@ The Subscription is confirmed successfully
 
 ![Screenshot 2024-09-10 142615 9](https://github.com/user-attachments/assets/9ee1a687-2720-4920-86bb-2d263aea1922)
 
-# Creation of lambda-function:
+# `Creation of lambda-function:`
 
 Click on the create function button
 
