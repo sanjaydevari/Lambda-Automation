@@ -173,6 +173,15 @@ return {
 
 Click on add files and upload the file
 
+![Screenshot 2024-09-10 152222 21](https://github.com/user-attachments/assets/cfd39c4c-d64b-4f04-adec-4ed91e2a68db)
+
+The lambda function has ran successfully
+
+# `CLOUDWATCH LOGS:`
+
+
+
+
 
 
 
