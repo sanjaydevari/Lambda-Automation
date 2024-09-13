@@ -121,6 +121,16 @@ Than click on add
 
 The SNS trigger is added to the lambda-function
 
+![Screenshot 2024-09-10 145908 14](https://github.com/user-attachments/assets/8ff46abd-d894-4c03-9e5a-bd73201ef2ac)
+
+# `Adding the destination`
+
+Adding this destination can get notification for every
+
+ successfull or failure events based on your notification
+
+
+
 
 
 
