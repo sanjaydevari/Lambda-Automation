@@ -179,6 +179,18 @@ The lambda function has ran successfully
 
 # `CLOUDWATCH LOGS:`
 
+![Screenshot 2024-09-10 153823 22](https://github.com/user-attachments/assets/bcdf5ee1-23c7-4570-8ef2-f3e067758e55)
+
+# `NOTIFICATION`
+
+I got notification to the email when the file is uploaded to the s3-bucket
+
+Hence the lambda is successfully triggered for event and automated the process
+
+
+# `The Project Is Completed`
+
+
 
 
 
