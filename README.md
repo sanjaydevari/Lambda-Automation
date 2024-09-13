@@ -129,6 +129,10 @@ Adding this destination can get notification for every
 
  successfull or failure events based on your notification
 
+ ![Screenshot 2024-09-10 150902 18](https://github.com/user-attachments/assets/fdedbba8-f232-4c70-9582-6eb5ad3c9dae)
+
+ The destination is added successfully
+
 
 
 
