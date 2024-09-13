@@ -19,4 +19,5 @@ This AWS Lambda function is designed to be triggered by S3 events, specifically 
 
 7.Save and Test: Save the Lambda function. You can test the function by manually uploading a CSV file to the configured S3 bucket. Check the SNS topic for the email notification.
 
+![Screenshot 2024-09-10 141624](https://github.com/user-attachments/assets/5969f0f6-ea02-466a-86fb-d3c3a8d1432b)
 
