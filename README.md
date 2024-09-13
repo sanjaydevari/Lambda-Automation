@@ -36,5 +36,8 @@ The topic is created
 
 ![Screenshot 2024-09-10 141735 3](https://github.com/user-attachments/assets/06a7aa7c-49a6-459a-8582-d8baf5f2ff66)
 
+Click on create subscription
+
+
 
 
