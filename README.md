@@ -84,6 +84,9 @@ Click on create function
 
 The Lambda-project function is created:
 
+![Screenshot 2024-09-10 143347 13](https://github.com/user-attachments/assets/fa273aa7-0073-439a-8f4f-4577427eaa1a)
+
+
 
 
 
