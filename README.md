@@ -117,6 +117,10 @@ Select the sns topic that has created earlier
 
 Than click on add
 
+![Screenshot 2024-09-10 145946 15](https://github.com/user-attachments/assets/625950ad-a31d-41a6-88a1-ba34ce09a3c6)
+
+The SNS trigger is added to the lambda-function
+
 
 
 
