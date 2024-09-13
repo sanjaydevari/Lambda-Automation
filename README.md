@@ -140,7 +140,7 @@ import json import boto3
 
 def lambda_handler(event, context): s3 = boto3.client('s3') # Initialize the S3 client sns = boto3.client('sns') # Initialize the SNS client
 
-# `Get the S3 bucket and object key from the event
+# Get the S3 bucket and object key from the event
 bucket = event['Records'][0]['s3']['bucket']['name']
 key = event['Records'][0]['s3']['object']['key']
 
@@ -167,7 +167,7 @@ sns.publish(
 return {
     'statusCode': 200,
     'body': json.dumps(f"Number of rows in {key}: {row_count}")
-}`
+}
 
 
 
