@@ -1,5 +1,5 @@
 
-# Lambda-Automation
+# `Lambda-Automation`
 # S3 to SNS Notification Lambda Function
 # Overview:
 This AWS Lambda function is designed to be triggered by S3 events, specifically when a new file is uploaded to a specified S3 bucket. Upon trigger, the function counts the number of rows in the uploaded CSV file and sends an email notification via Amazon SNS (Simple Notification Service) with the count of rows.
