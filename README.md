@@ -187,6 +187,7 @@ I got notification to the email when the file is uploaded to the s3-bucket
 
 Hence the lambda is successfully triggered for event and automated the process
 
+![Screenshot 2024-09-13 175711 23](https://github.com/user-attachments/assets/62f339b6-4950-46f3-a5a9-919c8abe47eb)
 
 # `The Project Is Completed`
 
