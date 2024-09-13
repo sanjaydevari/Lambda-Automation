@@ -70,6 +70,15 @@ Click on the create function button
 
 ![Screenshot 2024-09-10 143347 13](https://github.com/user-attachments/assets/2afa6267-5983-4594-a07c-421762fbd10e)
 
+Select the Author from Scratch option
+
+Enter the name of the function : Lambda-project
+
+Select the Runtime : Python 3.12
+
+Architecture as : x86_64
+
+
 
 
 
