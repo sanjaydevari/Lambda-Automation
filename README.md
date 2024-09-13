@@ -52,6 +52,8 @@ click on create
 
 The subscription for the email-notification is created successfully
 
+![Screenshot 2024-09-10 142313 6](https://github.com/user-attachments/assets/46cdca8e-ace9-4d9f-be24-da5d44842ef7)
+
 
 
 
