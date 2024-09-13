@@ -97,6 +97,11 @@ Select the bucket : s3-data-storage20
 
 Select the event types as : all object create events
 
+![Screenshot 2024-09-10 145731 02](https://github.com/user-attachments/assets/7afaa3e0-8daf-4647-9d24-eaabf62dac16)
+
+Click on add to add the trigger:
+
+
 
 
 
