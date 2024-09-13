@@ -101,6 +101,10 @@ Select the event types as : all object create events
 
 Click on add to add the trigger:
 
+![Screenshot 2024-09-10 145834 03](https://github.com/user-attachments/assets/3a3d12bb-b495-4bb3-904a-877d3eecc390)
+
+The s3 trigger is added to the lambda function
+
 
 
 
