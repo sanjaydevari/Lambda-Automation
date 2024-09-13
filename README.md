@@ -60,6 +60,9 @@ Click on the confirm-subscription
 
 The Subscription is confirmed successfully
 
+![Screenshot 2024-09-10 142453 8](https://github.com/user-attachments/assets/ae14ba0f-e6b6-4570-beec-e8549934987b)
+
+
 
 
 
