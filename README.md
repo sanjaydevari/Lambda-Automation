@@ -78,6 +78,8 @@ Select the Runtime : Python 3.12
 
 Architecture as : x86_64
 
+Click on create function
+
 ![Screenshot 2024-09-10 143300 12](https://github.com/user-attachments/assets/ef9d1349-8340-4dc8-9b00-65b0afe75908)
 
 
